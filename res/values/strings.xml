@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SohoNavigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="radio_participant">Participant</string>
+    <string name="radio_experimenter">Experimenter</string>
+    <string name="service_started">%s started</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="load_event_data">Load Event Data</string>
+    <string name="load_data">Load data</string>
+    <string name="ucl">UCL</string>
+    <string name="real_world">REAL-WORLD</string>
+    <string name="navigational">NAVIGATIONAL</string>
+    <string name="start">Start</string>
+    <string name="start_experiment">Start Experiment</string>
+    <string name="next_event">Next Event:</string>
+    <string name="ready">Are you ready?</string>
+    <string name="start_route">Start Route</string>
+    <string name="ok">OK</string>
+    <string name="nav_to">Navigate to:</string>
+    <string name="azimuth_instructions">Point to the goal and press NEXT</string>
+    <string name="next">NEXT</string>
+    <string name="goal_is">GOAL IS:</string>
+    <string name="left">Left</string>
+    <string name="straight">Straight</string>
+    <string name="right">Right</string>
+    <string name="thinkAloud">How long does it take to get to there?</string>
+    <string name="completed_route">You have completed</string>
+    <string name="participant_code">Participant Code:</string>
+    <string name="empty_string"></string>
+    <string name="please_goto">"Please go to "</string>
+    <string name="please_goto_cont">and press OK when you\'re there.</string>
+    <string name="chooseRole">Please choose the role for this device:</string>
+    <string name="settingsTextService">2. TCP service:</string>
+    <string name="settingsTextRole">1. Experiment role:</string>
+    <string name="settingsTextTcpServer">3. TCP Server:</string>
+    <string name="settingsTextLoadJson">4. Load event data:</string>
+    <string name="settingsTextTestConnection">4. Test connection: </string>
+    <string name="settingsTextStartExperiment">5. Start the experiment:</string>
+    <string name="ex_start_choose_route">Please choose a route:</string>
+
+</resources>
